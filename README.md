@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+A web scrapper that scrapes the Top100 songs on Billboard.
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This Web Scrapper only exists because of an SELP Code2College class, however I have worked on this scrapper to be a bit flashier and easier to read. ~
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Don't, because I don't know how.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+You can use this to find the top 100 songs in the W O R L D.
 
 ### Any optional sections
