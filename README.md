@@ -1,6 +1,6 @@
-# Title
+# Songscraper (Just a Test)
 
-A web scrapper that scrapes the Top100 songs on Billboard.
+A web scraper that scrapes the Top100 songs on Billboard.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ A web scrapper that scrapes the Top100 songs on Billboard.
 
 ## Background
 
-This Web Scrapper only exists because of an SELP Code2College class, however I have worked on this scrapper to be a bit flashier and easier to read. ~
+This Web Scraper only exists because of an SELP Code2College class, however I have worked on this scraper to be a bit flashier and easier to read. ~
 
 ## Install
 
@@ -20,6 +20,4 @@ Don't, because I don't know how.
 
 ## Usage
 
-You can use this to find the top 100 songs in the W O R L D.
-
-### Any optional sections
+You can use this to find the top 100 songs on Billboard, its hardcoded a bit.
